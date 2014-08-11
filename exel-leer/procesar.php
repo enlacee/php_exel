@@ -37,14 +37,9 @@ require_once 'Spreadsheet/Excel/reader.php';
 	
 	echo  "Obtenemos una FILA determinada  = $row";
 	
-	echo "Obtenemos un libro del Excel $shee";
+	echo "Obtenemos un libro del Excel shee";
 	echo "<hr><br>";
 	
 	print_r($data);
 	echo "</pre>"; 
 	
-	
-	
-
-
-?>
